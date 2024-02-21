@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-int main(void)
 
 /**
  * main - Prints "with proper grammar, but the outcome is
@@ -8,7 +7,7 @@ int main(void)
  *
  * Return: Always 0.
  */
-
+int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
 
