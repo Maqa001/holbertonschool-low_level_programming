@@ -1,5 +1,10 @@
+/*
+*main description
+*/
 #include <stdio.h>
-
+/*
+*main description
+*/
 int main(void)
 {
 /*
