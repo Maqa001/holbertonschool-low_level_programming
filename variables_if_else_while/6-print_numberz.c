@@ -3,7 +3,7 @@
 /**
 *main - Prints
 *
-*REtuen: Success
+*Retuens: Always Success
 */
 
 int main(void)
