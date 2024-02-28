@@ -1,11 +1,10 @@
 #include "main.h"
 
-\**
+/**
   * print_square - funtion 
   * @size: argument
   * Return: good
   */ 
-
 
 void print_square(int size)
 {
