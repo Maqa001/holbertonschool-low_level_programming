@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
-  * print_square - funtion 
+  * print_square - funtion
   * @size: argument
   * Return: good
-  */ 
+  */
 
 void print_square(int size)
 {
@@ -21,5 +21,4 @@ void print_square(int size)
                 }
                 _putchar('\n');
         }
-
 }
