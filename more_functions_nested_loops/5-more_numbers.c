@@ -2,7 +2,7 @@
 
 /**
 *main - check
-*@more_numbers: is good
+* more_numbers: is good
 *Return: Alway
 */
 
