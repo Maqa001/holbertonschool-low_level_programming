@@ -1,13 +1,13 @@
 #include "main.h"
 
 /**
-*main - check
-*more_numbers - is good it is function
-*Return: Alway
-*/
+ * more_numbers - nmbr fct
+ * Return: no r
+ */
 
 void more_numbers(void)
 {
+
 int i, j;
 	for (i = 1; i <= 10; i++)
 	{
