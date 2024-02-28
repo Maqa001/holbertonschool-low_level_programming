@@ -2,8 +2,8 @@
 #include <stdio.h>
 /**
 * mul - coorect
-* @a
-* @b
+* @a llaksd
+* @b a;lsdkak
 * Result correct
 */
 
