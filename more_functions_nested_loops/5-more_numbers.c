@@ -2,8 +2,10 @@
 
 /**
 *main - check
+* more_number: is good
 *Return: Alway
 */
+
 void more_numbers(void)
 {
 int i, j;
