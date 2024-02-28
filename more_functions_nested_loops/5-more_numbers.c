@@ -2,7 +2,7 @@
 
 /**
 *main - check
-* more_numbers - is good it is function
+*more_numbers - is good it is function
 *Return: Alway
 */
 
