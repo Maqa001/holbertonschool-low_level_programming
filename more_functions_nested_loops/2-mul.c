@@ -4,7 +4,7 @@
 * mul - coorect
 * @a: llaksd
 * @b: alsdkak
-* Result correct
+* Return: correct
 */
 
 int mul(int a, int b)
