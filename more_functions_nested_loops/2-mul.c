@@ -1,6 +1,9 @@
 #include "main.h"
 #include <stdio.h>
 /**
+* mul - coorect
+* a
+* b
 *main mul REsult correct
 */
 
