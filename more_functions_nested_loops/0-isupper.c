@@ -1,9 +1,9 @@
 #include "main.h"
 /**
-* main - is correct
-*
-*Result is correct 
-*/
+ * main - is correct
+ *
+ * Result is correct 
+ */
 
 
 int _isupper(int c)
