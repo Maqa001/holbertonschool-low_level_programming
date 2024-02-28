@@ -2,9 +2,9 @@
 #include <stdio.h>
 /**
 * mul - coorect
-* a
-* b
-*main mul REsult correct
+* @a
+* @b
+* Result correct
 */
 
 int mul(int a, int b)
