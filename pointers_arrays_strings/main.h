@@ -11,3 +11,4 @@ char *_strcpy(char *dest, char *src);
 int _atoi(char *s);
 int _putchar(char n);
 int _putchar(char c);
+void rev_string(char *s);
